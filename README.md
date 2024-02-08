@@ -7,3 +7,15 @@ Este projeto tem como objetivo criar um site que ajude escritores e editoras a s
 - Front: React.js 
 - back: Python e fastapi
 - banco de dados: MySQL
+
+# Colaboradores do projeto
+
+## Discentes:
+
+- Lara Victoria de Souza Pereira (https://github.com/LaraVic9)
+- Larissa dos Santos Cavalheiro (https://github.com/lari-sann)
+
+## Docentes 
+
+- Alcione Benacchio (https://github.com/alcionebenacchio)
+- Daniel Di Domenico (https://github.com/ddomenicoifpr)
