@@ -4,6 +4,6 @@ Este projeto tem como objetivo criar um site que ajude escritores e editoras a s
 
 ## Linguagens utilizadas:
 
-Front: React.js 
-back: Python e fastapi
-banco de dados: MySQL
+- Front: React.js 
+- back: Python e fastapi
+- banco de dados: MySQL
